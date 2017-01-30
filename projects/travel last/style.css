@@ -1,0 +1,29 @@
+#img1 {
+    background-size: cover;
+}
+
+header {
+    width: 100%;
+}
+
+body {
+    padding-top: 20px;
+    padding-bottom: 5m0px;
+    padding-left: 80px;
+    padding=right 20px;
+    background-image: url(oce.jpg);
+    background-size: cover;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    padding-top;
+    20px;
+    padding-bottom: 20px;
+}
+
+.footer {
+    color: red;
+    font-size: 50px;
+}

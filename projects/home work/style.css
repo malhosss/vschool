@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: Frank Knows;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+}
+
+.je, .trf, .tbf{
+    width:30%;
+    margin-left: auto;
+    margin-right:auto;
+    display: inline-block;
+    color: red;
+    font-family:Frank Knows ;
+    vertical-align: top;
+}
+img {
+    width:100%;
+}
+.ou{
+    text-align: right;
+    padding-top: 100px;
+}
+.tbf img{
+    height: 300px;
+}
+.footer{
+    color: red;
+    
+}
+    
+}
+@media (max-width: 500px)
+@media (min-width: 50px)

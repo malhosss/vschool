@@ -1,0 +1,16 @@
+#div1 {
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#score1 {
+    font-size: 20px;
+    padding-top: 70px;
+}
+
+.firstname {
+    color: red;
+}

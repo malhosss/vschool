@@ -1,0 +1,25 @@
+body{
+    background-image: url(bg1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    border-style: double;
+    border-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: blue;
+    color: white;
+}
+.partshead{
+    width: 400%;
+    height: 200px;
+}
+.part-img{
+    width: 100%;
+    height:200px;
+    margin-bottom: 40px;
+}
+.par{
+    text-align: center;
+}

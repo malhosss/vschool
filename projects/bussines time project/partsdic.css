@@ -1,0 +1,24 @@
+body{
+    background-image: url(bg1.jpg);
+    background-attachment: fixed;
+}
+.itw{
+    text-align: center;
+    color: white;
+    font-size: 75px;
+}
+.itw1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+}
+.img1, .img2, .img3, .img4{
+    width: 100%;
+    height: 600px;
+    margin-bottom: 50px;
+    
+}
+
+.hist{
+    font-size: 15px;
+}

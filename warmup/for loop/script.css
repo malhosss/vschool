@@ -1,0 +1,2 @@
+var people = ["Jon", "Jacob", "Jingle", "Heimer", "Schmidt"]; 
+var people = fullName.split(' ').slice(0, -1).join(' ');

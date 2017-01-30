@@ -1,0 +1,60 @@
+body{
+    background-image: url(bg1.jpg);
+    background-attachment: fixed;
+}
+.moto{
+    text-align: center;
+    font-size: 75px;
+    color: whitesmoke;
+}
+.row1{
+    width: 30%;
+    height: 250px;
+}
+.knee{
+    font-size: 50px;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+}
+.row2{
+    width: 25%;
+    height: 250px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.gloves{
+    color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+}
+.row3{
+    width: 30%;
+    height: 300px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.row4{
+    width: 30%;
+    height: 250px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.helmet{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.row5{
+    width: 30%;
+    height: 250px;
+    padding-left: 100px;
+}
+.row6{
+    width: 30%;
+    height: 300px;
+    padding-left: 100px;
+    padding-top: 70px;
+}

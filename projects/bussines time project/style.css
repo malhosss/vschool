@@ -1,0 +1,49 @@
+.p1 {
+    text-align: center;
+    font-size: 100px;
+    color: silver;
+}
+
+h1 {
+    color: #337ab7;
+    border-style: double;
+    border-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: silver;
+}
+
+p {
+    color: silver;
+    border-style: double;
+    border-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: silver;
+}
+
+#tag {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+#sig {
+    color: #337ab7;
+    font-size: 25px;
+}
+
+#sig-btn {
+    border-style: none;
+}
+
+.headerimg {
+    text-align: center;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+    max-width: 500px;
+}

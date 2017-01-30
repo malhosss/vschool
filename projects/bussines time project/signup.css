@@ -1,0 +1,28 @@
+body{
+    background-image: url(bg1.jpg);
+    background-attachment: fixed;
+}
+#head{
+   
+    font-size: 75px;
+    text-align: center;
+    color: whitesmoke;
+}
+.top{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+}
+.fname,.lname, .date,.phone,.dln  {
+    padding-top: 20px;
+    color: whitesmoke;
+}
+#bot{
+    margin-top: 20px;
+}
+#pd{
+    margin-top: 500px;
+}
+#bike2{
+    padding-left: 150px;
+}

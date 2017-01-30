@@ -1,0 +1,21 @@
+.fr1, .sec, .three{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+
+.fr1{
+    background: red;
+    
+}
+
+.sec {
+    background: yellow;
+    
+}
+
+.three{
+    background: blue;
+}

@@ -1,0 +1,78 @@
+YUI.Env.JSONP.yui_3_16_0_1_1485609082724_1045({
+   "ads" : [
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=CPxUpjgGIS.k4h4WKzXDvXqHhC6MWBGSmwVUNFeLju_WSrE68PWU7b6ImocBU5Z1h_5knngr6M_xKAa0XDOBmgBvx6ZI4YqFqkxoWEQ7xbjJSt9RUdCXgVkH_5p2rGeLBBpGKdJaCs.DDTGBbZRCwPoalA9nL4d5KM8cnILVnv0AnQUL8dVcvIS_265RScTFBYU30Gj5J0KPsz4Z0HFUAwcJFZ6sikGSzT6TxSq1sdulxh9wDNK45MgW8BNN0cFN4MRUwpSeN2RgNV3X8V7XKItjADNhk9CBJCsvb4K3vgwaJZyT.vlXELknUKgkRCDKdX2VntNDQAIIhqCDuvK4GLZUNXr.k6GH9hEYIfcEG6NWtwlla1BnD4HNZsHJJIQqTIE7Ns8.A8zZr5jMF7jykP3Bqcns6g--&ap=$(AD_POSN)",
+         "bidUSD" : 0.050,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.007462769408865898,
+         "creativeId" : 29404177568,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/7a0564f3dd79a2a29b2b9e4fb3b56f89.png",
+         "index" : 1,
+         "landingPageUrl" : "http://www.facebook.com/campaign/landing.php?campaign_id=1005400692809569&partner_id=yahoo_stream&placement=Lebanon&creative=EnglishMail&extra_1=Desktop&extra_2=c&keyword=29404177568",
+         "normalizedEcpm" : 0.2537341599014405,
+         "priceType" : "CPC",
+         "rsc" : 0.0004441203300302732,
+         "sponsoredBy" : "Facebook",
+         "tag" : "{\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15g9grgcg(gid$4b0625ba-e55b-11e6-8537-008cfacc45b0-7f69f72b7700,st$1485609094500000,li$0,cr$29404177568,dmn$m25151,srv$3,exp$1485616294500000,ct$27,v$1.0,adv$958566,pbid$1,seid$4964388))&r=1485609094501&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"958566\",\"callToAction\":\"Learn more\",\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=ypmtucoGIS8mLeOe_hgQT8Mt_NSkGn49SzFI76qizBTfDY._eLJzFV4uo.fWaauiRKdnwuilkC7qV4nVwBbq49l0DkCcc8ekDG48t_LUNTCEbykX.lDEMZgq4IWfZrG9rgdMWtgcYz5ELoaJ3SCm2T6Aff3_7umxgOuAI9R9OGAFYKF_IAg5wjhSM_oM7k1xfhaLCva8HuPzx3NAQJ_oJDofkSi7FhPge9awb1rFnGuKwIXGpzGl1Ty7z7gbedL3QToQiLDusffKF4GO9Ek64JMe1uQ9E7.Zp_C1gjYjc4WdmPUouMs7TSZaxrLwzN_vGtDvMK9WxNwReXTSXmnCyF7h9lIImOycARq6815ly9N4ep576_vHEGMgeMQOVDv6A8X1AD_rWXzYj.hOt70G29FT45LSgNLVR1PjsuRiSlXtoy82RcAPg_hspdbAsdmHZave_L2F9g849jNrpM_Yj7fWzUECTdNb7i4dBDBk0tDIHxKb5T904BLPG9EgdOdHeW1TMm8ND.mNB9fGejPV3fjlAR5W_DE_NcEcRJnxzVU5yUD8btAP1Q7jVgbuQMk1OU0YOVDe02Qk6QziLJBd4HG4iR1UxUhtZr3gg92tFYggGc1PD.yUZtcgQcJHvFKT8cNVIXyin6Rr4S0P8UxDEgSaBOd66A0q4AgCwr7QgbzwlIYDJ492Iw--%26lp=\",\"headline\":\"Facebook® Account Sign Up. Join for Free Today!\",\"hqImage\":\"https://s.yimg.com/av/moneyball/ads/1412103845915-1336.jpg\",\"hqImageHeight\":627,\"hqImageWidth\":1200,\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/7a0564f3dd79a2a29b2b9e4fb3b56f89.png\",\"imageHeight\":82,\"imageWidth\":82,\"landingUrl\":\"http://www.facebook.com/campaign/landing.php?campaign_id=1005400692809569&partner_id=yahoo_stream&placement=Lebanon&creative=EnglishMail&extra_1=Desktop&extra_2=c&keyword=29404177568\",\"objective\":\"PROMOTE_CONTENT\",\"origImg\":\"\",\"origImgHeight\":-1,\"origImgWidth\":-1,\"secHqImage\":\"https://s.yimg.com/av/moneyball/ads/1412103845915-1336.jpg\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/7a0564f3dd79a2a29b2b9e4fb3b56f89.png\",\"secThumbnailImage\":\"NOT_PROVIDED\",\"source\":\"Facebook\",\"sponsoredByLabel\":\"Sponsored\",\"summary\":\"Connect with friends and the world around you on Facebook. Sign up, it’s free and always will be.\",\"thumbnailImage\":\"NOT_PROVIDED\",\"uuid\":\"29404177568\"}"
+      },
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=HZ45ZCUGIS.00Rni_rlMMtYxp8AvkLF7ucIcrpC9SYT9masslZo_DUgW5ApFGMyznYMJbrOt1DuYOr5J4JdV3r3wLmK2qORXkSrMqm1Fk8HmPYaCTi_xXdiQlEYNB1Xxo5XKZIujHl69uI_zAcVoHjAxhUzY.MEtcjoHNxA7vv1XXruJ9IhD6phIG6F5q_GKyU.xCOlPefTbt.3t776rLesARVCci2E8z40x2pRfLUfhoWCXQxKmlQfGr5aRQ3RZMzOIRptjv.PT.Pm4ujWxn8yYKTIxGo5aRka8rX31GzTL.zHfv0n8xlP4dyNaRj5vavKsR5b..mdVFw.l6pwvhxjEE.lOXqKgQ4k3vS7C8bCoOj3oYZnU3LIDEhPYnS1bLzwcEWyMCrw1iUQ6DmFW1yEMNqE_CWd3u.Ah&ap=$(AD_POSN)",
+         "bidUSD" : 1.3580999460,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.007553247465389961,
+         "creativeId" : 32586529021,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/073b48afbbc3a92a275a52881c1ec9eb.jpeg",
+         "index" : 2,
+         "landingPageUrl" : "https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=19737259&PluID=0&ord=4b0625ba-e55b-11e6-8537-008cfacc45b0-7f69f72b7700",
+         "normalizedEcpm" : 1.888311866347490,
+         "priceType" : "CPC",
+         "rsc" : 2.496877414159826e-06,
+         "sponsoredBy" : "Travel Expo",
+         "tag" : "{\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15s695ncu(gid$4b0625ba-e55b-11e6-8537-008cfacc45b0-7f69f72b7700,st$1485609094501000,li$0,cr$32586529021,dmn$travelexpo.net.au,srv$3,exp$1485616294501000,ct$27,v$1.0,adv$1539238,pbid$1,seid$4964388))&r=1485609094501&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"1539238\",\"callToAction\":\"Learn More\",\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=9axRoEQGIS8eCtsvIsAl7pqbYd1RoYxQw1wVN4jMOhoNN7r4evdP3sM7t4O5ItBaUF4fOGpN3xxnAnUncfee2o_tytn9j.4QibA2izpKKhY6TJAbPmPPJs2VeBq5o1WzJXHALOOC6ZqkTb0oh251ZyHWhieVcvhkRMgMnTdRWWT9idDN4PouR2khQxX3OWMorTdcaw8eNAHF7ek_7Ddvd_.LsAlGExCoz7RAgCoWxreM0fSg8o35bF3XsYKZ72s1Pz9gvlk2uRqg.pL9kx2h3h_L_EzqtIGxPJNxAmgmTnt8jj39p8hArkThOftV.rmr4N7NgswG3xNfKAdmqvqmDFHauPlLJvUjP9TQc4N4wfxB3Wa0S5sHXj7Xg2PlN81ul29FPrNMYJ1JZt0RdrVd8QaPHYerh82B2DvqYfcR8QMSE2o60MV4EeJ_hhe1WoyJgjcFjdSrnUUmeNKphYnVvipgYhL9ash3AUQ_UDonYq9rSgPmLBYZ2UoysW1zcn1ORuWlbvKp7OG4V2kN3quhH90N_HpTeJT4uHttUgNk871uCiCd0azoaFfq9rqcxi_KmbejXWoh2YmCIuUUIHzC1Z9xQ2B9JVwktc_3DhvfS5Iir_dpOJ_ukjRY6AkuEc.Ihq5tXtYJXVAG%26lp=\",\"headline\":\"Dreaming of your next holiday?\",\"hqImage\":\"https://s.yimg.com/av/moneyball/ads/1481258456713-5180.jpg\",\"hqImageHeight\":627,\"hqImageWidth\":1200,\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/073b48afbbc3a92a275a52881c1ec9eb.jpeg\",\"imageHeight\":82,\"imageWidth\":82,\"imprTrackingUrl\":\"https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=19737259&PluID=0&ord=4b0625ba-e55b-11e6-8537-008cfacc45b0-7f69f72b7700&rtu=-1\",\"imprTrackingUrls\":[\"https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=19737259&PluID=0&ord=4b0625ba-e55b-11e6-8537-008cfacc45b0-7f69f72b7700&rtu=-1\"],\"landingUrl\":\"https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=19737259&PluID=0&ord=4b0625ba-e55b-11e6-8537-008cfacc45b0-7f69f72b7700\",\"objective\":\"VISIT_WEB\",\"origImg\":\"https://s.yimg.com/av/moneyball/ads/1481258457673-9837.jpg\",\"origImgHeight\":627,\"origImgWidth\":627,\"secHqImage\":\"https://s.yimg.com/av/moneyball/ads/1481258456713-5180.jpg\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/073b48afbbc3a92a275a52881c1ec9eb.jpeg\",\"secOrigImg\":\"https://s.yimg.com/av/moneyball/ads/1481258457673-9837.jpg\",\"secThumbnailImage\":\"NOT_PROVIDED\",\"source\":\"Travel Expo\",\"sponsoredByLabel\":\"Sponsored\",\"summary\":\"Don’t miss Travel Expo, with 100’s of exclusive deals, free travel presentations and expert advice at your fingertips. Entry is free!\",\"thumbnailImage\":\"NOT_PROVIDED\",\"uuid\":\"32586529021\"}"
+      },
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=UE3CS_EGIS.bJXiIY8ekmxTsY4f36xtSxF3rXJo2rtjQ2ri4DSwUh6eRZfVGkLkPHWB7FIdnr0bLNpip0TVijfmVNbnSZX41UfC_FateHJ6Kl9SZ_XfC00NtS4ZCsXa_YjSTYiIc7q_rLtpwCOb9PXgDLsnnoz0dhcOrgEdOoTh8P.jRn49BMrmf3Ta4wQvTtrysN.TSYJc_X7Nnl4kywLrGgk7N6SgO0ujofN0g._KZZDTnai918Jcqv8iji_r8QOXUCGzVp.CzpMgUhludu0jtbYlBpZ6IkU83HiQpRCvrVYy5tI6RlfuFTLw6qXbvVd3b68m1z.6EGbiZyUqa6t1uj.QStC0yLnv8x0ekUI_MEHyq0D_ym5ZMgm7yulEl_xuiCbn176cdl5JrRSALhCykCIg0mYYyjA--&ap=$(AD_POSN)",
+         "bidUSD" : 0.754499970,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.007148624755665762,
+         "creativeId" : 32671174687,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/d95c7e2d94a0f6239f9d346dc71de030.jpeg",
+         "index" : 3,
+         "landingPageUrl" : "https://www.jacklinks.com.au/family-guy/",
+         "normalizedEcpm" : 1.787156188916440,
+         "priceType" : "CPC",
+         "rsc" : 7.387868663499830e-07,
+         "sponsoredBy" : "Jack Link's Beef Jerky",
+         "tag" : "{\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15ruo7ach(gid$4b0625ba-e55b-11e6-8537-008cfacc45b0-7f69f72b7700,st$1485609094501000,li$0,cr$32671174687,dmn$jacklinks.com.au,srv$3,exp$1485616294501000,ct$27,v$1.0,adv$1534766,pbid$1,seid$4964388))&r=1485609094501&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"1534766\",\"callToAction\":\"Learn more\",\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=GY7.sewGIS.dZ8teTwgXnxn0.WP0.WvA1ysmvL2iElOf1zvfNfdXWtjIQWjzkKJ9RO8PoBSI.ZI6FhGcpFimpFVo2jYiDnDtLYudihw58TGQougzV6oeskx4WppYSFyc7pg6e3z7XfHaCjUpmbwncH1YKBUZL6HfOo6lVpV_716ZG1gtLrG74uochReX5kCwq.sfuJJ5Qwu8ONQl_u4MGMif1r0rH.LMf05kfUcI4_P4obbHkiaArHXmxneUdy51b.fk1cqlzt58ry4RSzZsVljjfgT06BQgdcbKURF3K9pckV1WjIQl491RI2zgxVAyb3b6CkuGJaZ12uyffb6hwmtJ08oQtg_ynxLYaEiL2MdOo6myo3FNEKipMncjbEoMXD6goZD1_O9.uYTkCcICB7aIB3flsiJyCRoSKi0gxG.D3fD_zhs333OrUfktmPkbB6tecntZ8hlTRub9HtYVVf0FDPWwarakyUn7s_GsqnAU%26lp=\",\"headline\":\"Peter Griffin says \\\"try my beef\\\"\",\"hqImage\":\"https://s.yimg.com/av/moneyball/ads/1480486540948-509.jpg\",\"hqImageHeight\":627,\"hqImageWidth\":1200,\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/d95c7e2d94a0f6239f9d346dc71de030.jpeg\",\"imageHeight\":82,\"imageWidth\":82,\"landingUrl\":\"https://www.jacklinks.com.au/family-guy/\",\"objective\":\"VISIT_WEB\",\"origImg\":\"https://s.yimg.com/av/moneyball/ads/1480486536974-6610.jpg\",\"origImgHeight\":627,\"origImgWidth\":627,\"secHqImage\":\"https://s.yimg.com/av/moneyball/ads/1480486540948-509.jpg\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/d95c7e2d94a0f6239f9d346dc71de030.jpeg\",\"secOrigImg\":\"https://s.yimg.com/av/moneyball/ads/1480486536974-6610.jpg\",\"secThumbnailImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/180x180/e08058980e0234eeb11528cdad8f0150.jpeg\",\"source\":\"Jack Link's Beef Jerky\",\"sponsoredByLabel\":\"Sponsored\",\"summary\":\"New Jack Link's Family Guy Beef Jerky packs out now. Win 1 of 50 ultimate Family Guy prizes - each prize valued at over $400\",\"thumbnailImage\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/180x180/e08058980e0234eeb11528cdad8f0150.jpeg\",\"thumbnailImageHeight\":180,\"thumbnailImageWidth\":180,\"uuid\":\"32671174687\"}"
+      },
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=EsFQpR8GIS.W5SOxNWzXrjsbrok1qjuewghG7IUAQF6p29z688k9Fqn8bd9GvKWknYdTGIjbVu9Mmbtx0CEgqmsxHjY0gYaKuv49XwnfFh0flvnjTRcfpOmhCC5TKVThd1V99Kz3iUPaRJCcIVjf_RTLhAEkOnkMu51i_IBLfs_Iy9Mf2JUlLfhH8uHWnoOR5KqW01R13hS8VyQOYEUZJqtpWRqvOkwXZ90FqlHc6XnmQiKipSRWDA.t.VulZM8M2TW9HqXzv_WG6R.wjeJn1ouYfDGcBpH25h2iF0s3tzhQy4CbFMzueKZa51bSjrgfN.4No.g0WrjWGem5xqAReMbMYN9Bf7DTxBJbZFUzNcvZbB1iAqcdaYjoLHpAfXhOAFfuhNOWmM71q1wTBgE.y8vnDLJzXzn4W7JvCkuGEw--&ap=$(AD_POSN)",
+         "bidUSD" : 0.2355501725912711,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.009605386952216022,
+         "creativeId" : 32468829702,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/78761b2d6b08b1f699953dbc6b194949.jpeg",
+         "index" : 4,
+         "landingPageUrl" : "http://www.ifcmarkets.ae/ar/forex-cfd-trading?utm_source=yahoo&utm_medium=cpc&utm_term=&utm_content=excellent_new&utm_campaign=arabic_native_500",
+         "normalizedEcpm" : 0.0002262550554400427,
+         "priceType" : "CPC",
+         "rsc" : 2.714809852477629e-07,
+         "sponsoredBy" : "IFC Markets",
+         "tag" : "{\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15obepq5e(gid$4b0625ba-e55b-11e6-8537-008cfacc45b0-7f69f72b7700,st$1485609094501000,li$0,cr$32468829702,dmn$ifcmarkets.ae,srv$3,exp$1485616294501000,ct$27,v$1.0,adv$1487673,pbid$1,seid$4964388))&r=1485609094501&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"1487673\",\"callToAction\":\"اعرف المزيد.\",\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=C584bRAGIS_ssMQ7qdMPJl6tKCa2rMUPiEPuT0tyInCkeE6RByiQ2e8BsSnMpGkoYl0TkEMa4gP_MX8TlK70r9e64aJzlzr8ci7O9gBnR8KlnlLkimcTGSjJuD8yHacmqIC1BvvpLupnnhJXCFmZat.LsuTSYp9WET3CIfUPQeBB5jQK250Q5.mqOovCVUTjUM4XE0dmorLO_S2DVtm7tLof9_pdJW9vu2.q9Oiq89nHl80T8Hb2khU4k3drmvnHkQekqFGiRB_vtp7M25FVpdOQwjnQwb.GQU9pNdSG128vpZ2v4f.BGRDbloz_jtgCeotxtsAPjxXpNidA.NziBT60EJ8itw1G1Oe_8qZXNjhjD7t70ZZkgerHdPHyzDqvAcIbdYTRgNGTKBAAfZ9e9wju2X.AUOma12seyapc6T.OSPcfUQMD86V6F.nyiZnGkWtmaPEmeIhYql6A5p3pu.0AF84DjBdBNnX_kMZzOuJPO2InwjyaT1Gx8sGSkeAScZiE5xTiILnm_qyIvCUrrw2lb2m90UIRI8rc4te1nJCf1K7HmA4puKtv6W85GoGy8MQUDm3YvOojMlP1cbUCzGP0fD6_Yna1O5fsswnLwZ7Mp_ZkCDR_v.AfYtVyICsPUnGMj73ofw3Iu7LoML_Ry1Y-%26lp=\",\"headline\":\"شركة IFC Markets. CFDلتداولات الفوركس و الـ\",\"hqImage\":\"https://s.yimg.com/av/moneyball/ads/1476099989470-8606.jpg\",\"hqImageHeight\":627,\"hqImageWidth\":1200,\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/78761b2d6b08b1f699953dbc6b194949.jpeg\",\"imageHeight\":82,\"imageWidth\":82,\"landingUrl\":\"http://www.ifcmarkets.ae/ar/forex-cfd-trading?utm_source=yahoo&utm_medium=cpc&utm_term=&utm_content=excellent_new&utm_campaign=arabic_native_500\",\"objective\":\"VISIT_WEB\",\"origImg\":\"https://s.yimg.com/av/moneyball/ads/1478500126501-8175.jpg\",\"origImgHeight\":627,\"origImgWidth\":627,\"secHqImage\":\"https://s.yimg.com/av/moneyball/ads/1476099989470-8606.jpg\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/78761b2d6b08b1f699953dbc6b194949.jpeg\",\"secOrigImg\":\"https://s.yimg.com/av/moneyball/ads/1478500126501-8175.jpg\",\"secThumbnailImage\":\"NOT_PROVIDED\",\"source\":\"IFC Markets\",\"sponsoredByLabel\":\"Sponsored\",\"summary\":\"أفضل الشروط لتداولات المحترفة ! أكثر من 500 أداة لتداول ، ترخيصين : CySEC و BVI FSC .100% CFD توزيع للأرباح  الـ على الأسهم\",\"thumbnailImage\":\"NOT_PROVIDED\",\"uuid\":\"32468829702\"}"
+      }
+   ],
+   "adsRequested" : 8,
+   "adserverLatency" : 9.000000000000000e-06,
+   "section" : {
+      "id" : 4964388
+   },
+   "serverIp" : "fe55.cbs.cb.bf1.yahoo.com",
+   "status" : "0",
+   "totalAds" : 4,
+   "totalLatency" : 0.0182020,
+   "userAge" : 40,
+   "userCountry" : "LB",
+   "userGender" : "U",
+   "userIp" : "80.79.159.2",
+   "version" : "2"
+})

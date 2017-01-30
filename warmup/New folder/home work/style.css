@@ -1,0 +1,55 @@
+#header {
+    color: red;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+}
+
+#head {
+    text-align: center;
+    font-size: 50px;
+    font-family: Frank Knows;
+    transition: font-size 1s ease;
+}
+h3{
+    text-align: center;
+}
+
+.big {
+    font-size: 100px !important;
+}
+
+p {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+.je,
+.trf,
+.tbf {
+    width: 100%;
+    font-family: Frank Knows;
+    vertical-align: top;
+    transition: 
+}
+
+img {
+    width: 100%;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
+
+.ou {
+    text-align: right;
+    padding-top: 30px;
+}
+
+.tbf img {
+    height: 315px;
+}
+.je {
+  transition: background-color: black 3s ease;
+}
